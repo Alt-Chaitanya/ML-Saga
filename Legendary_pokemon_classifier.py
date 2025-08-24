@@ -1,6 +1,6 @@
 '''starting off with custom made pokemon dataset. 
 mlday1.....will explain this code and how scikit learn functions affect total output. 
-also will understand all algos step by step in coming days in the form of individual programs.'''
+also will understand all algos step by step in coming days in the form of individual programs'''
 
 
 
