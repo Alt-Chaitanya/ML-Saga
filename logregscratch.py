@@ -2,7 +2,7 @@
 import numpy as np
 
 # ----------------------------
-# 1. Dataset
+# 1. making small Dataset which was earlier used in mld1
 # ----------------------------
 # Features = [Attack, Defense]
 X = np.array([
@@ -25,19 +25,19 @@ def standardize_new(x_row):
     return (x_row - X_mean) / X_std
 
 # ----------------------------
-# 3. Sigmoid
+# 3. Sigmoid function
 # ----------------------------
 def sigmoid(z):
     return 1 / (1 + np.exp(-z))
 # ----------------------------
-# 4. Prediction
+# 4. Prediction for initial weights
 # ----------------------------
 def predict(X, weights, bias):
     z = np.dot(X, weights) + bias
     return sigmoid(z)
 
 # ----------------------------
-# 5. Loss (Log loss)
+# 5. Loss function (Log loss)
 # ----------------------------
 def compute_log_loss(Y, Y_pred):
     m = Y.shape[0]
