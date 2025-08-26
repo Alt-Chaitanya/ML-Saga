@@ -1,4 +1,4 @@
-# mld2: Logistic Regression from scratch to understand it better
+# mld2: trying to write Logistic Regression from scratch to understand it better
 import numpy as np
 
 # ----------------------------
