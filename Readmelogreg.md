@@ -99,14 +99,5 @@ The model learns the best coefficients by minimizing the **log-loss**:
 
 ---
 
-## 🔗 Useful Links
-
-- [Pokémon Dataset (Kaggle)](https://www.kaggle.com/datasets/abcsds/pokemon)  
-- [Logistic Regression (Scikit-Learn Docs)](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)  
-- [Confusion Matrix Explained (Medium)](https://medium.com/swlh/confusion-matrix-and-classification-report-explained-8456323f2e1c)  
-- [Codecogs Equation Editor](https://latex.codecogs.com/eqneditor/editor.php)
-
----
-
 ![Build](https://img.shields.io/badge/Model-LogisticRegression-blue)  
 ![Pokémon](https://img.shields.io/badge/Dataset-Pokémon-green)
