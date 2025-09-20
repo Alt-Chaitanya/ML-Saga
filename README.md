@@ -1,3 +1,3 @@
 # ML-Saga
-Pushing machine learning code snippets, not daily but as I get time and learn new things..also will do concept breakdowns and
+Pushing machine learning code snippets, not daily but as I get time and learn new things..also will do concept breakdowns and do some projects along the way too.
 
