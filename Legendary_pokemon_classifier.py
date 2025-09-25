@@ -1,4 +1,4 @@
-'''starting off with custom made pokemon dataset. 
+'''im starting off with custom made pokemon dataset. 
 mlday1.....will explain this code and how scikit learn functions affect program output. 
 also will understand all algos step by step in coming days in the form of individual programs'''
 
@@ -11,7 +11,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
-# I made custom Data
+# I made some custom Data
 data = {
     'Name': [
         'Pikachu', 'Charizard', 'Bulbasaur', 'Squirtle', 'Mewtwo', 'Gengar', 'Eevee', 'Snorlax',
